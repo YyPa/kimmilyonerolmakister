@@ -1,0 +1,11 @@
+{
+  "name": "millionaire-js-master",
+  "version": "1.0.1",
+  "description": "[![GitHub last commit](https://img.shields.io/github/last-commit/mistermantas/millionaire-js.svg?style=flat-square)](https://github.com/mistermantas/millionaire-js/commits/master)   [![Twitter](https://img.shields.io/twitter/follow/mistermantas.svg?style=social&label=Follow)](https://twitter.com/mistermantas)",
+  "main": "script.js",
+  "scripts": {
+    "build": "next build && next export"
+  },
+  "author": "",
+  "license": "ISC"
+}
